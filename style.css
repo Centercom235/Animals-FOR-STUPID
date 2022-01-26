@@ -1,11 +1,12 @@
 body{
-    font-family: 'Josefin Sans', sans-serif;
-    background: rgb(0, 77, 128);
+        font-family: 'Special Elite', cursive;
+    background: tan;
 }
 
 .header_div{
     background: white;
     color: red;
+    font-family: 'Special Elite', cursive;
 }
 
 .header_div p{
@@ -22,6 +23,7 @@ body{
     width: 130px;
     font-weight: bolder;
     letter-spacing: 3px;
+    color: orangered;
 }
 
 .copy_right_footer{
@@ -33,5 +35,9 @@ body{
     background-color: #cfc8c4 ;
     line-height: 3;
     text-align: center;
-    text-shadow: 5px 5px 5px #635a55;
+    text-shadow: 5px 5px 5px grey;
+}
+
+.text_warning{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important ;
 }
